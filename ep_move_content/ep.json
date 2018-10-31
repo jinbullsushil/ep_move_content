@@ -1,0 +1,12 @@
+{
+  "parts": [
+    {
+      "name": "move_content",
+      "client_hooks": {
+        "aceInitInnerdocbodyHead": "ep_move_content/static/js/index:aceInitInnerdocbodyHead"
+      },
+      "hooks": {
+      }
+    }
+  ]
+}
